@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.ka{
+    color: orange;
+}
+.drs{
+    width: 40%;
+    float: left;
+}
+.drs img{
+    width: 100%;
+}
